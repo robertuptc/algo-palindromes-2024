@@ -2,6 +2,7 @@
 
 from palindrome import palindrome
 # This should return a bunch of trues
+palindrome('rac --ecar1')
 print(palindrome('racecar') == True)
 print(palindrome('Noon') == True)
 print(palindrome('ciVic') == True)
